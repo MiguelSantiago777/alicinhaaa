@@ -1,0 +1,38 @@
+.imag{
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+
+}
+.Titulo{
+    text-align: center;
+    color: red;
+    font-family:  'Passion One', sans-serif; ;
+    font-size: large;
+}
+
+.txt{
+    text-align: center;
+
+}
+
+.pergunta{
+    text-align: center;
+    font-family: 'Passion One' , sans-serif;
+    color: blueviolet;
+
+}
+
+.btn{
+    size: 75px;
+    border-radius: 75px;
+    width: 170px;
+    height: 70px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    background-color: red;
+    cursor: pointer;
+    font-family:'Passion one' sans-serif ;
+}
